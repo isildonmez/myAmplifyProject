@@ -1,0 +1,1 @@
+I followed [Aws Amplify's article](https://aws-amplify.github.io/amplify-js/media/quick_start.html#linking-native-libraries-for-react-native) 
